@@ -50,4 +50,4 @@ make sure `log_analyzer.py` and `logs.txt` should be in same folder.
 
 
 # AUTHOR
-**PundariKaksha**
+**PundariKaksha.B**
